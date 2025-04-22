@@ -22,3 +22,12 @@ programa{
           escreva("Parabéns! Você acertou o número em ", a, " tentativa(s)!\n")
         }
       }
+        } enquanto ((a < 5) e (nao acertou))
+    se (acertou) {
+      se (a == 1) {
+        escreva("Sua pontuação final foi 50 pontos! \nParabéns, você é ótimo!\n")
+      } senao se (a == 2) {
+        escreva("Sua pontuação final foi 40 pontos! \nParabéns, você é ótimo!\n")
+      } senao se (a == 3) {
+        escreva("Sua pontuação final foi 30 pontos! \nBoa tentativa, quase lá!\n")
+      } senao se (a == 4) {
