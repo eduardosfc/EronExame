@@ -12,7 +12,7 @@ Desenvolver um algoritmo para
 
 Etapas realizadas por cada membro:
 
-Eduardo Nunes Sawassato
+Eduardo Nunes Sawassato:
 Iniciei o projeto criando um repositório no github
 Adicionei meus companheiros de equipe
 Fiz a configuração basica do gitbash
@@ -45,7 +45,7 @@ deu um gitpush
 (como o computador era de uso próprio nao foi preciso limpar os dados)
 commitou as alterações feitas no terminal, adicionando as no readme
 
-Felipe Ribeiro
+Felipe Ribeiro:
 Após ser adicionado no projeto fez a configuração basica do gitbash
 Clonou o repositório incial
 Fez um git pull após o commit de Davi denominado parte3
