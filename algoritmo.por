@@ -31,3 +31,13 @@ programa{
       } senao se (a == 3) {
         escreva("Sua pontuação final foi 30 pontos! \nBoa tentativa, quase lá!\n")
       } senao se (a == 4) {
+        escreva("Sua pontuação final foi 20 pontos! \nBoa tentativa, quase lá!\n")
+      } senao se (a == 5) {
+        escreva("Sua pontuação foi 10 pontos! \nBoa tentativa, quase lá!\n")
+      }
+    } senao {
+      escreva("Suas tentativas acabaram. O número correto era: ", s, ".\n")
+      escreva("Sua pontuação final foi 0 pontos! \nNão foi dessa vez, tente novamente!\n")
+    }
+  }
+}
