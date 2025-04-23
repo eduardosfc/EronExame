@@ -156,9 +156,6 @@ $ ssh -T git@github.com
 Hi eduardosfc! You've successfully authenticated, but GitHub does not provide shell access.
 
 Usuario@DESKTOP-EHNKSP3 MINGW64 ~
-$ git clone^C
-
-Usuario@DESKTOP-EHNKSP3 MINGW64 ~
 $ git clone git@github.com:eduardosfc/EronExame.git
 Cloning into 'EronExame'...
 remote: Enumerating objects: 3, done.
