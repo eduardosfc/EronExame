@@ -8,7 +8,7 @@
 - Leonardo Suenson Ranali.
 
 ## Objetivo
-Desenvolver um algoritmo para advinhar um número aleatório para somar pontos.
+Desenvolver colaborativamente um algoritmo em Portugol de um jogo com objetivo de advinhar um número aleatório e somar pontos.
 
 ## Etapas realizadas por cada membro:
 
@@ -393,30 +393,6 @@ Already up to date.
 
 User@LAPTOP-JCOITHDE MINGW64 ~/EronExame (main)
 $ code .
-
-User@LAPTOP-JCOITHDE MINGW64 ~/EronExame (main)
-$ git add .
-
-User@LAPTOP-JCOITHDE MINGW64 ~/EronExame (main)
-$ git commit -m "parte 3"
-On branch main
-Your branch is up to date with 'origin/main'.
-
-nothing to commit, working tree clean
-
-User@LAPTOP-JCOITHDE MINGW64 ~/EronExame (main)
-$ git commit -m "adicionado estrutura"
-On branch main
-Your branch is up to date with 'origin/main'.
-
-nothing to commit, working tree clean
-
-User@LAPTOP-JCOITHDE MINGW64 ~/EronExame (main)
-$ code .
-
-User@LAPTOP-JCOITHDE MINGW64 ~/EronExame (main)
-$ code .
-
 
 User@LAPTOP-JCOITHDE MINGW64 ~/EronExame (main)
 $ git add .
